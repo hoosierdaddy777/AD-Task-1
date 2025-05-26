@@ -1,0 +1,17 @@
+{
+    "name": "carlo-dulutan/ad-task-1",
+    "description": "A simple Student Academic Portal",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Carlo Dulutan",
+            "email": "202310776@fit.edu.ph"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
