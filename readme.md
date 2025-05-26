@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 <img src="./assets/img/feutechlogo.png" alt="Nyebe" width="" height="130">
-<div>
+</div>
 <div align="center">
   <h3 align="center">Student Academic Portal</h3>
 </div>
